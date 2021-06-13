@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning back-end software development 😄
+- 👯 I’m looking to collaborate with other software developers to expand my knowledge in the field
+- ⚡ Fun fact: I love reading and enjoy learning new things everyday
+
 <!--
 **3stherMueni/3stherMueni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
