@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning back-end software development 😄
+- 🌱 I’m currently learning IoT development 😄
 - 👯 I’m looking to collaborate with other software developers to expand my knowledge in the field
 - ⚡ Fun fact: I love reading and enjoy learning new things everyday
 - 🥅 2021 goal: To contribute to more open source projects
