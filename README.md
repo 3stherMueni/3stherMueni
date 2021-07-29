@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning IoT development 😄
 - 👯 I’m looking to collaborate with other software developers to expand my knowledge in the field
 - ⚡ Fun fact: I love reading and enjoy learning new things everyday
-- 🥅 2021 goal: To contribute to more open source projects
+<!-- - 🥅 2021 goal: To contribute to more open source projects -->
 
 <!--
 **3stherMueni/3stherMueni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
