@@ -5,7 +5,7 @@
 - 😄 For this year, I plan to get more into technical writing on a wide variety of fields. 
 - 👯 I’m looking to collaborate with other software developers to expand my knowledge in the field
 - ⚡ Fun fact: I love reading and enjoy learning new things everyday
-<!-- - 🥅 2022 goal: To contribute to more open source projects -->
+- 🥅 2022 goal: To contribute to more open source projects
 
 <!--
 **3stherMueni/3stherMueni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
