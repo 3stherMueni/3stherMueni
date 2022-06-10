@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-- 🌱 I’m currently an IoT developer 😄
-- 🔭I'm currently learning Python and Assembly
-- 😄 For this year, I plan to get more into technical writing on a wide variety of fields. 
-- 👯 I’m looking to collaborate with other software developers to expand my knowledge in the field
-- ⚡ Fun fact: I love reading and enjoy learning new things everyday
-- 🥅 2022 goal: To contribute to more open source projects
+- 🌱 Glad to see you landed on my page
+- 🔭I'm currently working on various IoT projects to build up my expertise in the field
+- 😄 If you have a project in mind you would like to collaborate on, feel free to reach out.
+- 👯 I also dabble in front end web development
+- ⚡ Fun fact: I love reading and writing. Check out my hashnode blog and medium page to see some of my writings. 
+
+Hashnode:  https://esthermueni.hashnode.dev/
+
+Medium: https://medium.com/@esthermueni
 
 <!--
 **3stherMueni/3stherMueni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
